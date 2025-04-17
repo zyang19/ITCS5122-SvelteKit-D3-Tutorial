@@ -1,4 +1,4 @@
-<div class="container mx-auto px-4 py-8">
+<div class="container mx-auto px-4 py-8 font-display">
     <h1 class="text-3xl font-bold text-center mb-4">
         Welcome to SvelteKit + D3.js Tutorial
     </h1>
@@ -9,4 +9,7 @@
         This tutorial will guide you through creating interactive visualizations using 
         the power of SvelteKit and D3.js.
     </p>
+    <div class="source">
+        Source: Data from <a href="https://vancouvertrails.com/trails/">vancouvertrails.com</a>
+    </div>
 </div>
