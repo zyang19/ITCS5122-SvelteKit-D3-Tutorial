@@ -19,6 +19,10 @@ This tutorial demonstrates how to create interactive data visualizations using S
 - Node.js (v16 or newer)
 - npm or pnpm
 - Basic knowledge of HTML, CSS, and JavaScript
+- Ensure that you have a github account ([how to register](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)) and [apply for student education benefits](https://education.github.com/discount_requests/application). The education benefits will allow you to host GitHub Pages from private repositories, which is needed for the assignments in this class. You will need **a personal github account (github.com)** 
+- Make sure you have Git installed on your computer ([how to install](https://git-scm.com/downloads)).
+- VS Code (or any IDEs)
+- Chrome Web Browser
 
 ### Installation
 
@@ -59,6 +63,10 @@ my-vis-5122/
 ├── package.json          # Project dependencies and scripts
 └── vite.config.js        # Vite configuration
 ```
+
+1. Svelte & SvelteKit
+    - [Svelte](https://svelte.dev) is a modern front-end framework for building web applications. It compiles your components into highly efficient, plain JavaScript code that updates the DOM directly, which results in faster performance and smaller bundle sizes.
+
 
 ## License
 
