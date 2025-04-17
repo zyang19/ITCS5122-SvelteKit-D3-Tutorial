@@ -9,7 +9,4 @@
         This tutorial will guide you through creating interactive visualizations using 
         the power of SvelteKit and D3.js.
     </p>
-    <div class="source">
-        Source: Data from <a href="https://vancouvertrails.com/trails/">vancouvertrails.com</a>
-    </div>
 </div>
