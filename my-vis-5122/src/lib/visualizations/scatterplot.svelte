@@ -1,5 +1,12 @@
 <script>
 
+    /**
+        * Assignment name: Inclass Svelte + D3
+        * First name: 
+        * Last name:
+        * Student ID:
+    */
+
     import * as d3 from 'd3';
 
     import { config } from '$lib/state/state.svelte';

@@ -1,5 +1,14 @@
 <script>
+
+    /**
+        * Assignment name: Inclass Svelte + D3
+        * First name: 
+        * Last name:
+        * Student ID:
+    */
+
     import { tooltip } from "$lib/state/state.svelte";
+    
 </script>
 
 <div id="tooltip">
